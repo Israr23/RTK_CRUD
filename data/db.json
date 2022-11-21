@@ -1,0 +1,17 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "bookName": "Unknown Name",
+      "writerName": "Israr",
+      "isSoild": false,
+      "isSold": true
+    },
+    {
+      "id": 2,
+      "bookName": " Unknown Name 2",
+      "writerName": "Zafar Iqbal",
+      "isSoild": false
+    }
+  ]
+}

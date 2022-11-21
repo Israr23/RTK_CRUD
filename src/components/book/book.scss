@@ -1,0 +1,12 @@
+.o-book {
+  background-color: aliceblue;
+  margin-top: 150px;
+  &__list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 10px;
+    row-gap: 20px;
+    background-color: antiquewhite;
+  }
+}
